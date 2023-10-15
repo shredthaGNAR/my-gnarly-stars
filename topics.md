@@ -3587,7 +3587,6 @@
 - [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme) - Dark theme based on Monterail for Thunderbird 78
 - [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions) - Example extensions for Thunderbird WebExtensions APIs
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
-- [ChooChooAl/Thunderbird-Chrome](https://github.com/ChooChooAl/Thunderbird-Chrome) - Mozilla Thunderbird Email Client Chrome Folder used for theming the UI.
 - [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar) - macOS Native-looking Translucent Tabbar for Firefox
 - [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar) - Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
 - [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify) - Google Analytics Dynamic Remarketing Code for Shopify
