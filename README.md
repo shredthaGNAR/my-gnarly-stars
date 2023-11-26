@@ -734,7 +734,7 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension) - Source code of SingleFile for Safari
 - [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons) - Firefox addons for GitZip
-- [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts) - An archive of some of my UserScripts
+- [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts) - An archive of some of my smaller UserScripts
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [Aholicknight/IMDb-Scout](https://github.com/Aholicknight/IMDb-Scout) - Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [Purfview/IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites. Adds movies/series to Radarr/Sonarr. Adds exter
@@ -1824,7 +1824,7 @@
 - [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) - Calibre plugin for Library Genesis
 - [datamllab/rlcard](https://github.com/datamllab/rlcard) - Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
-- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow](https://github.com/tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow) - An Alfred workflow to search for a movie (or TV show) and get a few ratings
 - [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures) - Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
 - [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
@@ -1835,7 +1835,6 @@
 - [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
 - [tapanpandita/pocket](https://github.com/tapanpandita/pocket) - A python wrapper for the pocket api.
 - [Tuhinshubhra/ExtAnalysis](https://github.com/Tuhinshubhra/ExtAnalysis) - Browser Extension Analysis Framework - Scan, Analyze Chrome, firefox and Brave extensions for vulnerabilities and intels
-- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite) - Create a SQLite database containing data from your Pocket account
 - [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync) - 
