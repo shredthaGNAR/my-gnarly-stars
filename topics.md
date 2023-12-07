@@ -316,7 +316,7 @@
 
 ## atom 
 
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal) - A Terminal theme that mimics the One Dark theme made by the Atom team.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
@@ -453,7 +453,7 @@
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [withfig/config](https://github.com/withfig/config) - Fig's integrations with bash, zsh, fish, ssh, and tmux. Also contains Fig's installation and update scripts. Finally, this repo is the root of the .fig folder that is installed on your computer when y
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -2372,7 +2372,7 @@
 - [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand) - An open source browser extension to save your favorite bookmarks on a "new tab" page.
 - [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop) - Node.js version of the original Snapdrop
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
 - [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher) - Alfred workflow for finding a Cacher snippet.
@@ -4185,7 +4185,7 @@
 
 ## sublime-text 
 
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
