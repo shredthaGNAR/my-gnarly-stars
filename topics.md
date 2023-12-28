@@ -668,7 +668,7 @@
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter) - 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [lbragile/TabMerger](https://github.com/lbragile/TabMerger) - TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 - [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private) - Adds a Search Google in Private for in your context menu
 - [njnmco/odinochka](https://github.com/njnmco/odinochka) - featherweight tab manager
@@ -676,7 +676,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension]🧰90 clever features📌set & forget📌Longest-standing (Please help🧩👨‍👩‍👧‍👧) "Enrich your experience & -choice!"  -  ..⋮  {playback|content discovery|player|extra buttons|d
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -939,7 +939,7 @@
 - [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 - [byeolbit/translucent](https://github.com/byeolbit/translucent) - Translucent plastic card theme.
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css) - A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and grad
 - [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 - [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers.
@@ -1796,7 +1796,7 @@
 - [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive) - 🗄 Access, organize, and manage several Google Drive accounts in one place.
 - [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect) - A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and
 - [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus) - A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -2868,7 +2868,7 @@
 - [cbuijs/oisd](https://github.com/cbuijs/oisd) - Optimized version of OISD BlockLists
 - [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
-- [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero
+- [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, Edge, and Safari extensions for Zotero
 - [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ) - MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
 - [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core) - 
 - [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core) - 
@@ -4379,6 +4379,7 @@
 
 - [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 ## terminal 
 
