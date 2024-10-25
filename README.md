@@ -882,7 +882,7 @@
 - [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0) - 
 - [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title) - 
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
-- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks) - Firefox addon, copies hovered links on Ctrl+C.
 - [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image) - A Firefox extension that adds Google’s "search by image" to the browser context menu
@@ -1801,7 +1801,7 @@
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
-- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
 - [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List) - Bots To be added
 - [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources) - Resources for MacOS automation languages
@@ -2079,6 +2079,7 @@
 
 ## Python 
 
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [annedorko/highlight](https://github.com/annedorko/highlight) - Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
 - [arekusandr/last_layer](https://github.com/arekusandr/last_layer) - Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
 - [itsmejayd/filter-duplicate-lines](https://github.com/itsmejayd/filter-duplicate-lines) - A Python tool with a Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally creat
@@ -2108,7 +2109,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
