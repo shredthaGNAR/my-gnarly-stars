@@ -259,7 +259,7 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -395,7 +395,7 @@
 
 - [sted9000/gambit](https://github.com/sted9000/gambit) - Learn Pot Limit Omaha Starting Ranges
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
-- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets) - Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 - [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows) - Collected Alfred Workflows & Proof of Concept
@@ -656,6 +656,7 @@
 
 ## chatgpt 
 
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api) - API container for Local AI Pilot extension
@@ -683,7 +684,7 @@
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
@@ -703,6 +704,7 @@
 
 ## chatgpt-api 
 
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -721,7 +723,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports) - This is for the userscripts created on GreasyFork.org.
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
-- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -1142,7 +1144,7 @@
 ## database 
 
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
-- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
 
 ## deep-learning 
@@ -1381,7 +1383,7 @@
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes) - Take notes on every website in a smart and simple way!
 - [tim-we/web-ext-inspector](https://github.com/tim-we/web-ext-inspector) - Website for inspecting the contents of web extensions
-- [seanbreckenridge/browserexport](https://github.com/seanbreckenridge/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
+- [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [monyxie/qr-lite](https://github.com/monyxie/qr-lite) - A browser extension for generating and scanning QR codes.
 - [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox) - Firefox addon that saves highlighted text to a file.
@@ -2324,6 +2326,7 @@
 
 ## language 
 
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -2449,7 +2452,7 @@
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
-- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac) - Spotify Ad blocker for MacOS
 - [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac) - Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS.
@@ -2534,7 +2537,7 @@
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [jakshin/open-in-terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
 - [alienator88/McBrew](https://github.com/alienator88/McBrew) - A fast GUI for Homebrew written in SwiftUI
-- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+- [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [frm/cryptotool](https://github.com/frm/cryptotool) - Cryptocurrencies on your Mac touchbar 💸
 - [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker) - Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -3034,7 +3037,7 @@
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Adds AI to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
