@@ -250,7 +250,7 @@
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 - [bolucat/Firefox](https://github.com/bolucat/Firefox) - The Source Code of Firefox on Desktop
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -265,7 +265,7 @@
 - [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io) - Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 - [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io) - 🎨 My personal website
 - [BrancuAlexandru/ShyFoxBorderless](https://github.com/BrancuAlexandru/ShyFoxBorderless) - A very shy little theme that hides the entire browser interface. Now without borders!
-- [TanvirOnGH/firefox-config](https://github.com/TanvirOnGH/firefox-config) - Personal Firefox Browser Configuration
+- [Tanvir1337x/firefox-config](https://github.com/Tanvir1337x/firefox-config) - Personal Firefox (Firefox-ESR) Browser Configuration
 - [EvanKirshenbaum/CustomCSSforFx](https://github.com/EvanKirshenbaum/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum (57+)
 - [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
@@ -306,7 +306,6 @@
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
 - [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css) - css to compliment firefox's colors option for dark mode on all websites
 - [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
-- [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy) - Firefox Proton userChrome.css for an accurate Photon theme.
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
@@ -335,7 +334,7 @@
 - [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme) - Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin.
 - [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme) - A beautiful Joplin dark theme
 - [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme) - A few visual tweaks of stysebae's "joplin-vsc-material-theme"
-- [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
+- [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension) - The repo for the firefox port of the Unichat Chrome Extension
 - [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme) - firefox userchrome css theme
 - [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS) - Custom FireFox CSS
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -491,7 +490,7 @@
 - [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS) - MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 - [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac) - Translucent Mac Firefox Theme
 - [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [eromatiya/thunderblurred](https://github.com/eromatiya/thunderblurred) - A theme for Thunderbird
 - [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis) - Bringing sexy curves back to Firefox Photon.
 - [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac) - One-line theme
@@ -530,8 +529,9 @@
 
 ## Dart 
 
+- [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
-- [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass) - A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software
+- [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass) - A CLI tool to bypass Adobe's deactivation prompt
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [geeker-ai/geek_chat](https://github.com/geeker-ai/geek_chat) - GeekChat is a app for multiple cutting-edge LLM(ChatGPT and Gemini) models that available on Desktop(Win,Mac) and Mobile(Android, iOS)
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
@@ -678,7 +678,7 @@
 - [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro) - A free Plist Editor with some optional facilities for Clover UEFI boot loader
 - [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop) - Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or busine
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
-- [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper) - oneTab bookmark collection → plaintext
+- [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper) - oneTab bookmark collection → plaintext
 - [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter) - Export google keep notes to markdown
 - [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only) - This is simple circular menu html CSS js
 - [d3ward/floatly](https://github.com/d3ward/floatly) - An extension that adds a floating button for browser quick actions
@@ -802,6 +802,9 @@
 
 ## JavaScript 
 
+- [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
+- [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
+- [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
 - [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -841,7 +844,7 @@
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension) - a11y.css webextension repository — for both Chromium and Firefox
-- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!
 - [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer) - A quick-and-dirty tool of Firefox pref.js survey
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
 - [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon) - Automatically load temporary addons from a local directory when Firefox starts
@@ -2024,7 +2027,6 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [notable/notable-insiders](https://github.com/notable/notable-insiders) - A repository containing experimental releases of Notable.
 - [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks) - Firefox about:config useful tweaks.
-- [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify) - Google Analytics Dynamic Remarketing Code for Shopify
 - [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator) - 
 
 ## PHP 
@@ -2089,6 +2091,8 @@
 
 ## Python 
 
+- [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders) - Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
 - [Lexxrt/Blue](https://github.com/Lexxrt/Blue) - 🕵️‍♂️ɪɴғᴏʀᴍᴀᴛɪᴏɴ ɢᴀᴛʜᴇʀɪɴɢ ᴛᴏᴏʟ🕵️‍♂️
