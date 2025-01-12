@@ -129,7 +129,7 @@
 - [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria) - A personal blog, portfolio, or blog template
 - [manulthanura/Positivus](https://github.com/manulthanura/Positivus) - A stunning and versatile Astro theme designed for digital marketing agencies.
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
-- [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
+- [unoforge/agency-landing-page-Astrojs](https://github.com/unoforge/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux) - Primer blog con astro
 - [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio) - This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the dev
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
@@ -308,7 +308,7 @@
 - [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player) - Youtube Music CSS themes to apply with any injector.
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
-- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
 - [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme) - My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
@@ -344,9 +344,8 @@
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
-- [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
+- [wizrdsh/FirefoxSidebar](https://github.com/wizrdsh/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 - [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS) - A custom Firefox CSS that works well with the current MacOS design
-- [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square) - Makes Firefox Proton UI look and feel like Quantum
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
 - [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
@@ -357,7 +356,7 @@
 - [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox) - A wide screen friendly browser
 - [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui) - Dark theme for Joplin's desktop application.
 - [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io) - 
-- [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - firefox themed context and bookmark menus
+- [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox) - An "elegent" theme for Firefox
 - [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-) - Light theme on Firefox
 - [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme) - A dark theme for Google based on YouTube's dark theme
@@ -427,7 +426,6 @@
 - [bpwned/protovibrant](https://github.com/bpwned/protovibrant) - 
 - [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods) - 
 - [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom) - A modified version of Andreas Grafen's "ag-proton" design for firefox
-- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode) - Little theme for the onetab page to make it less eye raping.
 - [akisblack/firefox-css](https://github.com/akisblack/firefox-css) - My custom CSS for Firefox
@@ -528,6 +526,7 @@
 
 ## Dart 
 
+- [madari-media/madari-oss](https://github.com/madari-media/madari-oss) - Open source media manager
 - [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass) - A CLI tool to bypass Adobe's deactivation prompt
@@ -572,7 +571,7 @@
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot) - Pocket bot for saving your favourite links
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -631,7 +630,6 @@
 
 ## HTML 
 
-- [Tikipeter/tikipeter.github.io](https://github.com/Tikipeter/tikipeter.github.io) - 
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4
 - [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv) - Extract Pocket exported saves list to CSV (Python)
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
@@ -657,7 +655,7 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -776,11 +774,10 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
-- [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
 - [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
@@ -806,6 +803,8 @@
 
 ## JavaScript 
 
+- [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks) - Basically my firefox bookmarks with better search
 - [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter) - Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 - [superkhau/curcon](https://github.com/superkhau/curcon) - Command-line tool for converting currencies using Open Exchange Rates.
@@ -847,7 +846,7 @@
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension) - a11y.css webextension repository — for both Chromium and Firefox
-- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE. No API Key required!
+- [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer) - A quick-and-dirty tool of Firefox pref.js survey
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [abhn/Bookmarks-For-Obsidian](https://github.com/abhn/Bookmarks-For-Obsidian) - Firefox add-on to add current tab URL and title to markdown files 🔥🦊
@@ -886,7 +885,7 @@
 - [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter) - Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 - [magicdawn/magicdawn](https://github.com/magicdawn/magicdawn) - 个人学习 / 代码 / 总结 / 读书笔记
 - [twolfson/bookmarks](https://github.com/twolfson/bookmarks) - Webpage representing a collection of bookmarks
-- [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - Selecton browser extension provides popup with actions on text selection in Chrome and Firefox
+- [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension) - SelectON browser extension provides popup with actions on text selection in Chrome and Firefox
 - [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator) - 
 - [molebox/gatsby-theme-pocket](https://github.com/molebox/gatsby-theme-pocket) - A Gatsby theme that adds a pocket to your website.
 - [rtward/pocket-import](https://github.com/rtward/pocket-import) - A small script to upload a list of URLs into pocket
@@ -923,7 +922,7 @@
 - [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext) - Frontend code for GitHub Recommendation Extension
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
-- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
@@ -1577,6 +1576,7 @@
 
 ## Kotlin 
 
+- [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App) - Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
@@ -1591,6 +1591,7 @@
 - [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches) - 🧩 Patches for ReVanced
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
+- [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
@@ -1736,7 +1737,7 @@
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
 - [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources) - 
 - [objective-see/Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
 - [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher) - macOS Catalina Patcher (http://dosdude1.com/catalina)
 - [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) - A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
@@ -1809,7 +1810,7 @@
 - [uhub/awesome-css](https://github.com/uhub/awesome-css) - A curated list of awesome CSS frameworks, libraries and software.
 - [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
 - [marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions) - Easily find Raycast Extensions!🚀
-- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major softwares and services.
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions) - A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 - [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) - 
 - [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp) - ✨ My BTT(Better Touch Tool) preset.
@@ -1933,6 +1934,7 @@
 - [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader) - Alfred Workflow to download YouTube videos
 - [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash) - Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 - [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia) - Columbia by Osborne · A comprehensive black hole for ads and analytics
+- [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater) - Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 - [fastaddons/Darko](https://github.com/fastaddons/Darko) - 
@@ -2067,7 +2069,7 @@
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export browser bookmarks as plain text.
+- [kal247/App-bookmarks](https://github.com/kal247/App-bookmarks) - Export bookmarks from browsers and files
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 - [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter) - Split large mbox files (from hunderbird) into smaller one, class by year of the message
 - [marchyman/GeoTag](https://github.com/marchyman/GeoTag) - Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
@@ -2094,6 +2096,8 @@
 
 ## Python 
 
+- [dtankdempse/daddylive-m3u](https://github.com/dtankdempse/daddylive-m3u) - Add DaddyLive TV & Sports streams to your IPTV application using the M3U playlists provided in this repository. There are four different playlist formats available, each tailored for specific applicat
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [umbrellaplug/umbrellaplug.github.io](https://github.com/umbrellaplug/umbrellaplug.github.io) - Umbrella Kodi Addon Official
 - [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
@@ -2135,10 +2139,10 @@
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor) - 
-- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
+- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
@@ -2295,7 +2299,6 @@
 - [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts) - 💬 Send iMessages using Python through the Shortcuts app.
 - [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin) - 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes th
-- [Aadil101/cloud](https://github.com/Aadil101/cloud) - A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 - [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload) - Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 - [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive) - App to manage google drive accounts
 - [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3) - The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the
@@ -2473,9 +2476,10 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–133) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (100–134) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
+- [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
 - [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
@@ -2492,7 +2496,7 @@
 
 ## Shell 
 
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link and TorBox
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - A comparision of available hosts and pricing for AllDebrid, Real-Debrid, LinkSnappy, Premiumize, debrid-link, TorBox and Mega-Debrid
 - [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify) - 📁 Generate pixel-perfect macOS folder icons
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -2556,7 +2560,7 @@
 - [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
 - [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes) - Open macOS Settings Panes from list
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice) - Send SMS regularly through Python to keep Google Voice active
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons) - Colorful folder icons for macOS to help you organize your projects
@@ -2647,7 +2651,7 @@
 - [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles) - The setup I run on every computer
 - [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k) - fast install powerlevel10k theme
 - [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config) - macOS Scripting for Configuration, Backup and Restore
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch) - DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, pr
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport) - Toggle Airport power based on presence of wired ethernet
@@ -2679,6 +2683,7 @@
 
 ## Svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 - [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
@@ -2796,7 +2801,7 @@
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
 - [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It) - A macOS GUI for youtube-dl
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
-- [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
+- [SuperBox64/bigmac](https://github.com/SuperBox64/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos) - Simplenote for macOS
@@ -2827,6 +2832,7 @@
 
 ## TypeScript 
 
+- [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [jcv8000/Codex](https://github.com/jcv8000/Codex) - A free note-taking software for programmers and Computer Science students
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
@@ -2848,7 +2854,7 @@
 - [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
 - [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator) - Evaluate the strength of a hand of poker
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
 - [organization/youtube-music-next](https://github.com/organization/youtube-music-next) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
@@ -2970,7 +2976,7 @@
 - [withfig/plugins](https://github.com/withfig/plugins) - Plugin store for zsh, bash & fish.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Firefox addon that turns every page colors into "light text on dark background"
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix) - Text utilities for multiple code editors
