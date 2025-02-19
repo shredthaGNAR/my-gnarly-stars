@@ -345,7 +345,7 @@
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
-- [wizrdsh/FirefoxSidebar](https://github.com/wizrdsh/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
+- [drannex/FirefoxSidebar](https://github.com/drannex/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 - [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS) - A custom Firefox CSS that works well with the current MacOS design
 - [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square) - Makes Firefox Proton UI look and feel like Quantum
 - [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -526,6 +526,7 @@
 
 ## Dart 
 
+- [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [madari-media/madari-oss](https://github.com/madari-media/madari-oss) - Open source media manager
 - [cake-tech/cupcake](https://github.com/cake-tech/cupcake) - 
@@ -631,6 +632,7 @@
 
 ## HTML 
 
+- [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) - Pokerstars bot that plays real-time poker using GPT4
 - [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv) - Extract Pocket exported saves list to CSV (Python)
 - [darshanbaral/sada](https://github.com/darshanbaral/sada) - Simple hugo theme for resume created using Tailwind CSS
@@ -803,6 +805,7 @@
 
 ## JavaScript 
 
+- [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
 - [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy) - simple session manager for firefox using the internal sessionstore api
 - [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) - A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 - [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension) - Browser extension for AnythingLLM Docker & Desktop application
@@ -816,7 +819,6 @@
 - [thedevdojo/static](https://github.com/thedevdojo/static) - ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 - [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard) - Bookmark heavy lifting
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
-- [blindFS/raycast-google-gemini](https://github.com/blindFS/raycast-google-gemini) - google gemini plugin for recast
 - [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker) - 
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 - [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire) - A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
@@ -835,7 +837,7 @@
 - [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync) - Synchronize your browser bookmarks from a GitHub repository
 - [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
@@ -1033,7 +1035,7 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [thebaer/MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension
 - [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket) - [NOT MAINTAINED] Chrome and Firefox extension that improves Bitbucket's user experience
-- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [wallabag/wallabagger](https://github.com/wallabag/wallabagger) - Chrome-like / Firefox plugin for wallabag v2.
@@ -1510,7 +1512,7 @@
 - [steccas/ProtonClient](https://github.com/steccas/ProtonClient) - An unofficial desktop client for ProtonMail done with electron nativefier
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
 - [ylon/onetab-merge](https://github.com/ylon/onetab-merge) - Merge util for OneTab browser extension
-- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension) - [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 - [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search) - This Firefox extension allows you to use multiple of your installed search engines at once.
 - [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close) - Firefox close tab by right clicking on tab button ,userchrome script (runs on ff128) 🖱️
@@ -1582,7 +1584,7 @@
 ## Kotlin 
 
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - the only link utility app you need for Android
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - The only link utility app you need for Android, now available on desktop.
 - [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App) - Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
@@ -1639,7 +1641,6 @@
 - [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer) - 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 - [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme) - 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 - [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections) - Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
-- [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme) - Shopify theme for Low Coast Coffee
 - [faridrony55/Shopify-Liquid-Coding-Template](https://github.com/faridrony55/Shopify-Liquid-Coding-Template) - 
 - [blanklob/helium](https://github.com/blanklob/helium) - Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind..
 - [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis) - Shopify os 2.0 first theme of mine
@@ -1783,6 +1784,8 @@
 
 ## Others 
 
+- [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android) - Official documentation for the SmarterBookmarks android app
+- [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps) - A list of apps I use on my MacBook
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
@@ -1803,7 +1806,7 @@
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy) - Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns.
 - [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List) - This is the Adobe URL/IP block list for the Host file.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Deepseek, GPT o1, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -1825,6 +1828,7 @@
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android) - ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 - [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT) - Tool build YouTube revanced mods auto.
+- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch) - [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 - [umbrae/reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million) - This is a dataset of the all-time top 1,000 posts, from the top 2,500 subreddits by subscribers, pulled from reddit between August 15–20, 2013.
@@ -2130,7 +2134,7 @@
 - [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - This is a simple Raycast AI API proxy.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -2151,7 +2155,6 @@
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono & Sans is a variable font family for code & UI
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
-- [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists) - The AIO Firebog Blocklists is a collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, o
 - [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle) - Logi Circle Home Assistant component
 - [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader) - REST API File Uploader
 - [phguo/AskGPT](https://github.com/phguo/AskGPT) - AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
@@ -2211,7 +2214,7 @@
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [achembarpu/pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults) - All my default config stuff for mac
-- [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
+- [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow) - Search, open and make notes from Alfred 5 in Notable 📓
 - [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist) - This is an open project to maintain a list of domain names that serve YouTube ads
@@ -2481,7 +2484,7 @@
 - [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
-- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–134) find bar by repositioning it, adjusting spacing & styling internal elements.
+- [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar) - Refine the Firefox (130–135) find bar by repositioning it, adjusting spacing & styling internal elements.
 - [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom) - 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 - [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources) - This is a repo containing several osint sources
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
@@ -2574,7 +2577,7 @@
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macos(Intel 2020)
+- [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup) - Configuration files to setup macOS(Intel 2020)
 - [trybick/dotfiles](https://github.com/trybick/dotfiles) - Config files and new Mac setup guide
 - [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles) - My configs for prompt and terminal
 - [mswell/dotfiles](https://github.com/mswell/dotfiles) - My personal dotfiles
@@ -2934,7 +2937,7 @@
 - [notable/dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 - [notable/html2markdown](https://github.com/notable/html2markdown) - A small function for converting HTML to Markdown.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
+- [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
 - [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets) - Adds a section to copy snippet in GitHub repository page.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
@@ -2969,7 +2972,7 @@
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
 - [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging) - Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
-- [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs built on top of WebExtension with cross-browser support
+- [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs) - Browser extension for opening lists of URLs built with Vue.js on top of WebExtension with cross-browser support
 - [timche/gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2) - 
