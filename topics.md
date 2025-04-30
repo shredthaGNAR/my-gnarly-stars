@@ -152,10 +152,12 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -1349,7 +1351,7 @@
 - [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader) - An extremely simple, no frills, GUI-based video downloader
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [aderyabin/ServPane](https://github.com/aderyabin/ServPane) - A launchd menu bar app for Mac
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Tired of losing your inbox in browser tabs? Meru brings Gmail to your fingertips as a desktop app.
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -1587,7 +1589,7 @@
 - [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS) - PowerShell script for comparing user.js (or prefs.js) files.
 - [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox) - A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox) - Create cards with acrylic effect in Firefox
 - [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton) - :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
@@ -1879,6 +1881,7 @@
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 Add AI chat & search summaries to Google Search powered by the latest LLMs
 - [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to enhance your web experience
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
@@ -2491,7 +2494,7 @@
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Tired of losing your inbox in browser tabs? Meru brings Gmail to your fingertips as a desktop app.
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
@@ -2552,6 +2555,7 @@
 ## login 
 
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
 
 ## lua 
 
@@ -2752,7 +2756,7 @@
 - [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview) - Mac OSX app that displays window previews when hovering over app icon on the Dock.
 - [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles) - 💻 My config files for the shell (MacOS & WSL)
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Tired of losing your inbox in browser tabs? Meru brings Gmail to your fingertips as a desktop app.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
@@ -3038,6 +3042,10 @@
 - [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt) - 🐤 Add AI chat & search summaries to DuckDuckGo powered by the latest LLMs
 - [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger) - 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
 
+## no-code 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+
 ## node 
 
 - [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
@@ -3116,6 +3124,15 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
+
+## obsidian-plugin 
+
+- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
+- [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
+- [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket) - Pocket integration for Obsidian
+- [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
+- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+- [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 
 ## open-source 
 
@@ -3230,7 +3247,6 @@
 
 ## others 
 
-- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [CypherGoat/web](https://github.com/CypherGoat/web) - The CypherGoat instant exchange aggregator web-ui
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [xurban42/CryptoTouchBar](https://github.com/xurban42/CryptoTouchBar) - BetterTouchTool preset for CryptoCurrencies.
@@ -3302,7 +3318,6 @@
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) - An awesome paper list of fake news detection (FND) and rumor detection.
 - [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research) - Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
-- [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket) - Pocket integration for Obsidian
 - [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox) - blur overuse lmao
 - [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app) - Desktop app for PlayerFM build with electron.
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
@@ -3336,7 +3351,6 @@
 - [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend) - A fake Raycast backend that can be deployed to Vercel in just one step.
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-- [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown) - OneTab URL list to markdown
 - [Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512](https://github.com/Ioannis-Peridis/Multiagent-Systems-and-Game-Theory-PLH512) - Implementation in Java: POWER-TAC global competition advanced Broker implementation (Monte Carlo Tree Search Algorithm), Game Theory exercises and Approximating Game-Theoretic Optimal Strategies for F
 - [szge/globalpokercalc](https://github.com/szge/globalpokercalc) - calculate total playthough for globalpoker.com blackjack
@@ -3587,7 +3601,6 @@
 - [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket) - Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced) - uYouEnhanced (by @arichornlover) is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
-- [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X) - Revancify X manager
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab) - Firefox Synced JSON of tabs to Onetab format
 - [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links) - Scrape OneTab links and produce HTML that can be saved for backup
@@ -5611,7 +5624,7 @@
 ## ubuntu 
 
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Tired of losing your inbox in browser tabs? Meru brings Gmail to your fingertips as a desktop app.
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 
@@ -5780,7 +5793,7 @@
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows (previously Gmail Desktop)
+- [zoidsh/meru](https://github.com/zoidsh/meru) - :postbox: Tired of losing your inbox in browser tabs? Meru brings Gmail to your fingertips as a desktop app.
 - [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic) - Make Capslock Great Three!
 - [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor) - Compress your entire photo & video library and take it with you everywhere.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
