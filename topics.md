@@ -3259,6 +3259,7 @@
 
 ## others 
 
+- [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads) - Rank raycast extensions by downloads
 - [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - Lord of LLMS
 - [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions) - My repo of ContextMenu Actions (can also be used with Automator)
 - [zeitlings/ayai-gpt-nexus](https://github.com/zeitlings/ayai-gpt-nexus) - OpenAI, Anthropic, and Gemini integrations with support for local LLMs
