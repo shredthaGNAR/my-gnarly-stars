@@ -175,6 +175,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -641,6 +642,7 @@
 
 ## bitcoin 
 
+- [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 - [ValentinJesse/TouchBar_Bitcoin_Florincoin](https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin) - Bitcoin and Florincoin on the MacBook Pro TouchBar
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
@@ -949,7 +951,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰200+ options, clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -1353,6 +1355,7 @@
 
 ## dotnet 
 
+- [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
@@ -3340,6 +3343,8 @@
 
 ## others 
 
+- [psbarrales/LLM-automator](https://github.com/psbarrales/LLM-automator) - Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
+- [LudWittg/Pocket-exporter](https://github.com/LudWittg/Pocket-exporter) - A simple export utility for Pocket articles
 - [torerobo/maigret](https://github.com/torerobo/maigret) - Collect a dossier on a person by username from a huge number of sites
 - [PierreLga456/joplin-macos-theme](https://github.com/PierreLga456/joplin-macos-theme) - Un thème CSS pour Joplin inspiré de macOS, avec une apparence épurée et native. Compatible avec les modes clair et sombre.
 - [AnonAmit/osint-tool](https://github.com/AnonAmit/osint-tool) - A free, powerful OSINT (Open Source Intelligence) command-line tool that provides comprehensive intelligence gathering capabilities using only free APIs and resources.
@@ -3356,7 +3361,6 @@
 - [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) - Faded Theme For Obsidian By MatteCrystal
 - [seemoo-lab/privatedrop](https://github.com/seemoo-lab/privatedrop) - Practical Privacy-Preserving Authentication for Apple AirDrop
 - [Seniblue/Underwater](https://github.com/Seniblue/Underwater) - An obsidian.md theme
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto) - Decentralized P2P exchange built on Monero and Tor
 - [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect) - 
@@ -3522,7 +3526,7 @@
 - [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews) - Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 - [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, tools & scripts for machine intelligence models from Apple, DeepSeek, OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Created Alex Bilzerian, maint
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [JarryShaw/darc](https://github.com/JarryShaw/darc) - Darkweb Crawler Project
@@ -4319,7 +4323,6 @@
 - [ftassy/GCalTab](https://github.com/ftassy/GCalTab) - GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algori
 - [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird) - Outlook style headers and few goodies for Thunderbird
 - [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter) - Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
-- [eyalroz/removedupes](https://github.com/eyalroz/removedupes) - Remove Duplicate Messages
 - [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version) - Fork of LookOut (fix version)
 - [wshanks/tbkeys](https://github.com/wshanks/tbkeys) - Custom keybindings for Thunderbird
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
@@ -4964,6 +4967,7 @@
 
 ## privacy 
 
+- [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner) - Easily remove metadata from your images with our online tool, MetaCleaner. Preserve your privacy by stripping out EXIF data from your photos in seconds.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -5013,6 +5017,50 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff) - blocklists, scripts, etc.
 - [universalbyte/Superfox](https://github.com/universalbyte/Superfox) - Stop Firefox from sending "ALL YOUR PRIVATE DATA" to MOZILLA , GOOGLE and other Servers. 800+ privacy features !
+
+## productivity 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - A macOS app for organizing folders
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
+- [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
+- [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
+- [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
+- [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
+- [amitness/cutcode](https://github.com/amitness/cutcode) - A browser extension that enables double click to copy code snippet from stack overflow.
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
+- [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension) - A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+- [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later) - A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
+- [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks) - A chrome extension that add a read later view for chrome bookmarks
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+- [onaralili/SplitUp](https://github.com/onaralili/SplitUp) - ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
+- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
+- [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
+- [Mortennn/FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+- [eyalroz/removedupes](https://github.com/eyalroz/removedupes) - Remove Duplicate Messages
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
+- [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
+- [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
+- [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+- [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list) - A Chrome/Firefox extension for saving pages to read later.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - A browser extension that removes YouTube suggestions, comments, shorts, and more
 
 ## programming 
 
