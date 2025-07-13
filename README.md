@@ -278,7 +278,6 @@
 
 ## CSS 
 
-- [PierreLga456/joplin-macos-theme](https://github.com/PierreLga456/joplin-macos-theme) - Un thème CSS pour Joplin inspiré de macOS, avec une apparence épurée et native. Compatible avec les modes clair et sombre.
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [caro401/royal-velvet](https://github.com/caro401/royal-velvet) - A dark theme for obsidian.md
 - [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme) - Faded Theme For Obsidian By MatteCrystal
@@ -370,7 +369,7 @@
 - [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01) - Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascr
 - [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io) - 
 - [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork) - 
-- [drannex/FirefoxSidebar](https://github.com/drannex/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
+- [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar) - Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available!
 - [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS) - A custom Firefox CSS that works well with the current MacOS design
 - [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square) - Makes Firefox Proton UI look and feel like Quantum
 - [Balth-D/thunderbird-monterail](https://github.com/Balth-D/thunderbird-monterail) - A light and red theme for Thunderbird
@@ -786,8 +785,8 @@
 
 ## Java 
 
+- [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli) - 💻 Command line application as an alternative to the ReVanced Manager
 - [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto) - Decentralized P2P exchange built on Monero and Tor
-- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - Mirror repository of the LinkDroid for Linkwarden app
 - [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader) - An Android app to extract text from camera preview directly.
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
@@ -798,7 +797,6 @@
 - [Twenty20Twenty/Poker-Omaha-JavaFX](https://github.com/Twenty20Twenty/Poker-Omaha-JavaFX) - 
 - [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc) - Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
@@ -844,6 +842,7 @@
 
 ## JavaScript 
 
+- [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder) - A NodeJS ReVanced Extended builder
 - [micz/ThunderAI](https://github.com/micz/ThunderAI) - ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Anthropic or Ollama to enhance email management.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -1493,7 +1492,7 @@
 - [argyleink/conic.css](https://github.com/argyleink/conic.css) - nice'n simple conic gradients 🎨
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients) - An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
-- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+- [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www]
 - [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -1596,7 +1595,7 @@
 
 ## Jinja 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025
 
 ## Jsonnet 
 
@@ -1623,6 +1622,7 @@
 
 - [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) - 🧩 Patches for ReVanced
 - [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli) - 💻 Command-line application to use ReVanced
+- [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) - ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [jff99/KeyCip](https://github.com/jff99/KeyCip) - Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
@@ -1635,6 +1635,7 @@
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 - [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches) - [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [oxen-io/session-android](https://github.com/oxen-io/session-android) - Session Android - Onion routing based messenger [DEPRECATED SEE README]
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
 - [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
@@ -2229,7 +2230,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, command execution, fil
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, command execution, file upload/downlo
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
@@ -2338,7 +2339,7 @@
 - [marph91/joppy](https://github.com/marph91/joppy) - Python interface for the Joplin client and server API
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
 - [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server) - [Fork for CI docker build]
-- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
 - [pesc101/SortRobot](https://github.com/pesc101/SortRobot) - Python script to sort the mac download dir automatially
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -2693,7 +2694,6 @@
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS) - Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
-- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults) - A centralized place for the awesome work started by @mathiasbynens on .macos
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS) - A repository dedicated to mirroring some block-lists into 1 file for ease of use
@@ -3221,6 +3221,7 @@
 
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles) - 
 
 ## Vue 
