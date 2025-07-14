@@ -816,7 +816,7 @@
 - [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android) - Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG) - MicroG tweaked to work for applications such as Vanced.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig) - Fork of Auto Config.
@@ -1118,7 +1118,7 @@
 - [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor) - Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner) - A Firefox extension to clean urls from tracking and advertisement parameters
-- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Credits, etc. on Netflix, Prime video, Disney+, Crunchyroll and HBO max
+- [Dreamlinerm/Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Credits, etc. on all major Streaming services
 - [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext) - Search engine manager for modern browsers
 - [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search) - Search extension for the chrome web browser
 - [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click) - A browser extension to release right-click context menu blockage
