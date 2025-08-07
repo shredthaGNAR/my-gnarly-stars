@@ -38,7 +38,6 @@
 - [Liquid](#liquid)
 - [Logos](#logos)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -599,7 +598,7 @@
 
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
@@ -1622,6 +1621,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ryankrumenacker/sports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project) - statistical-arbitrage-for-sports-betting
 - [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets) - Experiments with web srcaping from sports betting websites
 - [yssefunc/sport_analytics](https://github.com/yssefunc/sport_analytics) - Sports betting analytics
@@ -1744,10 +1744,6 @@
 - [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons) - The official repository of Spoon plugins
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
-
-## MDX 
-
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
@@ -2185,6 +2181,7 @@
 
 ## Python 
 
+- [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay) - A macOS overlay tool for google Gemini
 - [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools) - All In One Tools Hacking
 - [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp) - Generate custom Mac OS folder icons with a desired image as stamp
 - [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver) - Linkding bookmark manager + SingleFile archiving combined
@@ -3268,7 +3265,7 @@
 - [stefnotch/downline](https://github.com/stefnotch/downline) - Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon) - Firefox add-on for rdltr (read-it-later app)
-- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
+- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats.
 - [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue) - 
 - [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue) - 
 - [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner) - Fast & Accurate Username Scanner (Frontend)
