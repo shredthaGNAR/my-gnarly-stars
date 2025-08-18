@@ -283,6 +283,7 @@
 
 ## CSS 
 
+- [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome) - a tool to install userChrome Themes from anywhere
 - [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS) - 
 - [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox) - A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 - [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme) - A Breeze theme for Firefox🔥
@@ -324,7 +325,6 @@
 - [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox) - A Firefox theme, which features gentle curves, transparency and a minimal interface.
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
-- [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 - [deciare/firefox-css](https://github.com/deciare/firefox-css) - Customisations to Firefox via userChrome.css
 - [p3rception/GlassFox](https://github.com/p3rception/GlassFox) - // Transluscent FirefoxCSS theme for MacOS
 - [Tenica/bookMark](https://github.com/Tenica/bookMark) - A bookmark webpage built with javaScript
@@ -813,7 +813,7 @@
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - A Java implemented Texas holdem and short deck Solver
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material You, features and improvements
+- [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material 3 Expressive design, enhanced features, and improvements
 - [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser) - Parsing pocket bookmarks
 - [inotia00/mMicroG](https://github.com/inotia00/mMicroG) - 
 - [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
@@ -821,7 +821,7 @@
 - [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp) - Share Via Http - Android
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI) - A modern GUI for FutureRestore, with added features to make the process easier.
-- [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations
+- [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker calculator web application built with JSF. Supports Omaha, Omaha Hi/Lo, and Texas Hold'em simulations.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -1176,7 +1176,6 @@
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url) - ShortcutKey2URL - Firefox Extension
 - [taminob/shortcuts](https://github.com/taminob/shortcuts) - WebExtension which allows selecting tabs with [CTRL] + [1-9]
-- [feiruo/userChromeJS](https://github.com/feiruo/userChromeJS) - Firefox userChromeJS
 - [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS) - uc.js, uc.xul collections
 - [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!)
 - [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac) - Firefox / Mac real full screen and hotkey
@@ -2521,6 +2520,7 @@
 
 ## Ruby 
 
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown) - OneTab URL list to markdown
 - [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew) - A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 - [ttscoff/searchlink-plugins](https://github.com/ttscoff/searchlink-plugins) - 
@@ -2812,7 +2812,6 @@
 - [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen) - config generator for revanced-magisk-module
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) - Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
-- [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper) - YouTube playlist editor and generator
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
