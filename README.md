@@ -868,6 +868,8 @@
 
 ## JavaScript 
 
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+- [webcull/PocketExportConverter](https://github.com/webcull/PocketExportConverter) - This is a simple tool to convert the Pocket export ZIP file to a standard HTML bookmarks file while preserving the original folder structure.
 - [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api) - Media downloader
 - [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab) - 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compa
 - [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab) - Onetab extension unofuscated with a few keyboard shortcuts added.
@@ -1634,6 +1636,7 @@
 
 ## Jupyter Notebook 
 
+- [izikeros/blog](https://github.com/izikeros/blog) - My personal blog available at safjan.com
 - [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps) - A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 - [octokami/darknet_forum](https://github.com/octokami/darknet_forum) - Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -1861,6 +1864,9 @@
 
 ## Others 
 
+- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+- [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git) - 
+- [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates) - 
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes) - A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
@@ -3013,6 +3019,9 @@
 
 ## TypeScript 
 
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [acoliver/llxprt-code](https://github.com/acoliver/llxprt-code) - An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [svarts/OneTab](https://github.com/svarts/OneTab) - OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient managemen
