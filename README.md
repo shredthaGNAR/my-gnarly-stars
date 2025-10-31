@@ -140,6 +140,7 @@
 
 ## Astro 
 
+- [unfolding-io/nebulix](https://github.com/unfolding-io/nebulix) - Nebulix, a Fast & Green Theme Based on Astro + Static CMS + Snipcart
 - [ThemeMarket/portfolio-demo-1](https://github.com/ThemeMarket/portfolio-demo-1) - Plantilla de portafolio de desarrollador web
 - [Osnaider19/Portafolio](https://github.com/Osnaider19/Portafolio) - Mi Portafolio
 - [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint) - is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic 
@@ -250,7 +251,7 @@
 - [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi) - Juego de poker Omaha Hi
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) - Convenient unified display of the most relevant technical and tag data for video and audio files.
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [kstenschke/doShell](https://github.com/kstenschke/doShell) - Headful automation on Linux and Mac OS
 - [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend) - Modern cross-platform open-source GUI for OpenPGP encryption, combining beginner-friendly simplicity, expert-level power, and full portability.
@@ -627,7 +628,7 @@
 - [missuo/raycast2api](https://github.com/missuo/raycast2api) - Relay your Raycast AI to an OpenAI compatible API endpoint
 - [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader) - Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 - [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv) - A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter) - Export your Pocket archive to file
 - [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter) - Command line tool that allows to export your Pocket articles in a json file.
 - [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd) - Stores HTML pages as Markdown files in an Obsidian vault
@@ -693,6 +694,9 @@
 
 ## HTML 
 
+- [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io) - satan's underpants motorcycle club
+- [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives) - Pages saved with SingleFile
+- [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources) - A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀
 - [AlfredJKwack/pockyt-analysis](https://github.com/AlfredJKwack/pockyt-analysis) - Provides visual analysis of JSON data out of Pockyt
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
@@ -737,7 +741,7 @@
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+- [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
 - [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
@@ -889,11 +893,11 @@
 
 ## JavaScript 
 
+- [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [gyng/save-in](https://github.com/gyng/save-in) - WebExtension for saving media, links, or selections into user-defined directories
 - [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites.
-- [odebroqueville/contextSearch](https://github.com/odebroqueville/contextSearch) - Chrome and Firefox web extension to search selected text in a web page using your favorite search engines from a context menu or from a grid of icons.
 - [sefinek/Sefinek-Blocklist-Collection](https://github.com/sefinek/Sefinek-Blocklist-Collection) - 🌍 A repository of blocklists for various DNS servers, featuring over 100 links and more than 6 million domains. Additionally, you can use our personalized Blocklist Generator to customize content filt
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker) - App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
@@ -1365,7 +1369,7 @@
 - [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer) - A simple powerful extension to adjust layout size of the current browser window
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor) - A markdown parser for React/Preact
-- [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+- [librats/rats-search](https://github.com/librats/rats-search) - rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 - [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari) - AdGuard for Safari app extension
 - [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess) - WebExtension to make your tabs clean
 - [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes) - A WebExtension which can display/remove duplicate bookmarks or empty folders
@@ -1829,6 +1833,7 @@
 
 ## Nim 
 
+- [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1) - Nim-based assembly packer and shellcode loader for opsec & profit
 - [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket) - Browser extension that adds bookmark to Pocket if rules allow it
 
 ## Nunjucks 
@@ -1837,7 +1842,7 @@
 
 ## OCaml 
 
-- [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
+- [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab) - Firefox add-on to pin or unpin current tab in more efficient ways.
 
 ## Objective-C 
 
@@ -1906,6 +1911,7 @@
 
 ## Others 
 
+- [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates) - Community collection of templates for the official Obsidian web clipper.
 - [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles) - macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox) - A curated list of free OSINT tools ⚡️
@@ -2274,6 +2280,8 @@
 
 ## Python 
 
+- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
+- [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 - [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy) - A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
@@ -2358,7 +2366,7 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [jacobsalmela/tccutil](https://github.com/jacobsalmela/tccutil) - ♿️  Command line tool to modify OS X's accessibility database (TCC.db)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [purarue/browserexport](https://github.com/purarue/browserexport) - backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -3121,7 +3129,7 @@
 - [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house) - A texas hold'em game engine for bot players
 - [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter) - A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -3204,7 +3212,7 @@
 - [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script) - Script for tracking history on PokerStars
 - [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator) - Evaluate the strength of a hand of poker
 - [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site) - My Portfolio website based on react, typescript and tailwind.
 - [mldangelo/personal-site](https://github.com/mldangelo/personal-site) - My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 - [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
@@ -3212,7 +3220,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [br4adam/bookmarks](https://github.com/br4adam/bookmarks) - Organize your bookmarks with ease.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -3431,6 +3439,7 @@
 
 ## Vue 
 
+- [ParisNeo/lollms](https://github.com/ParisNeo/lollms) - A simple Fast API based multi users backend/front end app to serve discussions using lollms_client library
 - [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro) - Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Pri
 - [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager) - Manage your Stremio Addons
 - [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
