@@ -271,7 +271,7 @@
 - [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of 7766 awesome AI tools
 - [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f) - Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [glamorwish/MacAI](https://github.com/glamorwish/MacAI) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
@@ -800,7 +800,7 @@
 ## chatgpt 
 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
@@ -1669,7 +1669,7 @@
 - [celenityy/Phoenix](https://github.com/celenityy/Phoenix) - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability.
 - [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control) - Firefox addon (extension) that helps you define rules which will control which container a website opens in.
 - [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions) - Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
-- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp/Zen but better.
+- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp but better.
 - [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit) - A browser extension for converting saved reddit posts to bookmarks.
 - [DEMONOJUS/Better-Tab](https://github.com/DEMONOJUS/Better-Tab) - BetterTab: The smarter macOS app switcher. Enhance your workflow with a customizable quick-launch overlay, instant app filtering, and app-specific hotkeys.
 - [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods) - Firefox CSS and JS Mods
@@ -3422,7 +3422,7 @@
 
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2) - This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explor
 - [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website) - It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
@@ -3643,7 +3643,7 @@
 
 ## openai 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -4043,6 +4043,7 @@
 - [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - OSINT Tools for the Dark Web
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [miten5/FreeWebHosting](https://github.com/miten5/FreeWebHosting) - A list of free web hosting websites for developers.
+- [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting) - How to host websites using free cloud storage
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers
 - [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop) - a new desktop app for chatkit.app
@@ -4214,7 +4215,7 @@
 - [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 - [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer) - 
 - [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp) - Share Via Http - Android
-- [danydodson/userscripts](https://github.com/danydodson/userscripts) - 🪚 Collection of UserScripts.
+- [danydodson/userscripts](https://github.com/danydodson/userscripts) - UserScript Collection.
 - [eigenwallet/unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui) - Graphical User Interface (GUI) For Trustless Cross-Chain XMR&lt;&gt;BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
@@ -4396,9 +4397,9 @@
 - [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons) - Google Search Extra Buttons
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Design icons for web browsers
-- [aecreations/clippings](https://github.com/aecreations/clippings) - Clippings: an extension for Firefox
-- [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb) - Clippings for Thunderbird
-- [aecreations/readnext](https://github.com/aecreations/readnext) - Read Next: an extension for Firefox
+- [aecreations/clippings](https://github.com/aecreations/clippings) - Save frequently-entered text for pasting later. An extension for Firefox.
+- [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb) - Save frequently-entered text for pasting later. An extension for Thunderbird.
+- [aecreations/readnext](https://github.com/aecreations/readnext) - The reading list that syncs to the cloud. An extension for Firefox.
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [ckeditor/github-writer](https://github.com/ckeditor/github-writer) - GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
