@@ -956,6 +956,7 @@
 - [ArakawaHenri/iCloudPasswords_for_Firefox](https://github.com/ArakawaHenri/iCloudPasswords_for_Firefox) - Porting iCloud Passwords Extension to Firefox
 - [k0src/GitSync](https://github.com/k0src/GitSync) - Sync Firefox windows, tabs, and tab groups via GitHub
 - [tanaikech/ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer) - 
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [webcull/PocketExportConverter](https://github.com/webcull/PocketExportConverter) - This is a simple tool to convert the Pocket export ZIP file to a standard HTML bookmarks file while preserving the original folder structure.
@@ -1963,6 +1964,7 @@
 
 ## Others 
 
+- [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
 - [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability) - Gives the probability of each scratch off ticket in the Ohio Lottery.
 - [Railikebread/scratchsmart](https://github.com/Railikebread/scratchsmart) - A scratch-off lottery analyzer app for New York State built with Java (Spring Boot) and React. Calculates and displays the best value tickets based on real-time public data.
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
@@ -2717,7 +2719,6 @@
 
 ## Roff 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - Worlds largest collection of zsh completions
 
 ## Ruby 
@@ -2768,7 +2769,6 @@
 
 ## Rust 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [eigenwallet/core](https://github.com/eigenwallet/core) - eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -3217,6 +3217,7 @@
 
 - [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp) - 
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YT and YT Music
 - [nonbili/NouTube](https://github.com/nonbili/NouTube) - YouTube and YouTube Music in a single app. No ads, plays in the background.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
