@@ -81,6 +81,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -350,6 +351,7 @@
 
 ## ai 
 
+- [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker) - Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -469,6 +471,7 @@
 
 ## ai-agents 
 
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
@@ -497,6 +500,7 @@
 
 ## android 
 
+- [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
@@ -775,7 +779,7 @@
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
@@ -1062,6 +1066,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
+- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store) - This repo includes all customized GPTs on openai gpt store
 - [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox) - https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ AI answer in Google
@@ -1265,6 +1270,7 @@
 - [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures) - Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 - [williankeller/browser-extension-boilerplate](https://github.com/williankeller/browser-extension-boilerplate) - A boilerplate template for building cross browser extensions (Chrome and Firefox).
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music
+- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi) - Chrome extension that remembers your search sessions and captures context.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
@@ -1378,7 +1384,7 @@
 - [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title) - A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 - [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow) - Move tab to next window browser context menu/button extension
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX) - A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
@@ -1415,6 +1421,7 @@
 
 ## claude 
 
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) - Shortcuts Playground: A Claude Code and Codex plugin for building, validating, signing, and remixing macOS/iOS Shortcuts with natural language.
@@ -1427,6 +1434,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere) - Your agents. Any browser. Anywhere
 - [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension) - ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
+- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
@@ -1454,6 +1462,7 @@
 
 ## claude-code 
 
+- [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
@@ -1470,6 +1479,7 @@
 - [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line) - Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [servitola/dotfiles](https://github.com/servitola/dotfiles) - How to live with macOS since 2020: Hammerspoon, Karabiner hyper layers, Birman layouts, one `up` to update 200+ apps, Claude Code
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 
 ## claude-skills 
 
@@ -1722,7 +1732,7 @@
 - [iposho/boxshadowru](https://github.com/iposho/boxshadowru) - A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
 - [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows) - Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
@@ -1935,6 +1945,7 @@
 
 ## discord 
 
+- [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [gamingdoom/datcord](https://github.com/gamingdoom/datcord) - An open-source Discord client that uses Firefox and Neutron
@@ -2025,6 +2036,31 @@
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## downloader 
+
+- [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [glomatico/gytmdl](https://github.com/glomatico/gytmdl) - A command-line app for downloading YouTube Music songs with tags from YouTube Music.
+- [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt) - 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
+- [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
+- [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader) - Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
+- [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
+- [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader) - Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
+- [downthemall/downthemall](https://github.com/downthemall/downthemall) - The DownThemAll! WebExtension
+- [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader) - An extremely simple, no frills, GUI-based video downloader
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+- [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl) - Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!)
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
+- [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+- [humandecoded/twayback](https://github.com/humandecoded/twayback) - Automate downloading archived deleted Tweets.
+- [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) - Script to download all your Snapchat memories
+- [gluons/download-directory-helper](https://github.com/gluons/download-directory-helper) - 📁 A Firefox add-on to use download-directory easily.
+- [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## education 
 
@@ -2588,7 +2624,7 @@
 - [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver) - Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide) - Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -3433,6 +3469,7 @@
 
 ## linux 
 
+- [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -3518,6 +3555,7 @@
 
 ## llm 
 
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai) - 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 - [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI/Anthropic-compatible endpoints with multi-provider translation and intelligent load-balancing.
@@ -3706,6 +3744,7 @@
 
 ## macos 
 
+- [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [dublyo/sessionat](https://github.com/dublyo/sessionat) - The open-source Mac browser AI can actually use. Workspaces, auto-saved sessions (replaces Session Buddy/OneTab/Toby), local-only visit analytics, and a built-in MCP server so Claude, Cursor, and any 
@@ -3767,7 +3806,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-- [steventheworker/Recents-macos-home](https://github.com/steventheworker/Recents-macos-home) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
+- [steventheworker/Recents-macos-home](https://github.com/steventheworker/Recents-macos-home) - Edit the 'recents lists' (or App Exposé entries) of other apps! Menubar, file or app launcher..
 - [Renset/macai](https://github.com/Renset/macai) - All-in-one native macOS AI chat application for virtually any AI provider
 - [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config) - An curated list of awesome BetterTouchTool configs.
 - [ridvanbaluyos/btt-touchbar-presets](https://github.com/ridvanbaluyos/btt-touchbar-presets) - BetterTouchTool Touch Bar Preset by Ridvan Baluyos
@@ -4094,6 +4133,7 @@
 
 ## mcp 
 
+- [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [dublyo/sessionat](https://github.com/dublyo/sessionat) - The open-source Mac browser AI can actually use. Workspaces, auto-saved sessions (replaces Session Buddy/OneTab/Toby), local-only visit analytics, and a built-in MCP server so Claude, Cursor, and any 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo
@@ -4428,6 +4468,7 @@
 
 ## open-source 
 
+- [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) - Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 - [fordft/MiddleClicker](https://github.com/fordft/MiddleClicker) - MiddleClicker is a free, open-source macOS app under the MIT License. Hold Fn and click or drag to use the middle mouse button in Blender, Maya, CAD tools, and browsers. Native menu-bar controls, auto
 - [elonmust26/calmtab](https://github.com/elonmust26/calmtab) - Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
@@ -4600,6 +4641,8 @@
 
 ## others 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [shredthaGNAR/kleopatra-macos-arm64](https://github.com/shredthaGNAR/kleopatra-macos-arm64) - Unofficial Kleopatra 26.08.1 for Apple Silicon: community build, downloads and build scripts
 - [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio) - 
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
 - [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library) - Shared library for use by patch developers
@@ -5996,7 +6039,7 @@
 - [roleoroleo/yi-hack-MStar.gdrive](https://github.com/roleoroleo/yi-hack-MStar.gdrive) - Google drive loader for yi smart ip camera (MStar based)
 - [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5) - Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
 - [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui) - Dark theme for Joplin's desktop application.
-- [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification) - Better Touch Tool AquaTouch Preset Modification
+- [wonjoonSeol-legacy/BTT-Aqua-modification](https://github.com/wonjoonSeol-legacy/BTT-Aqua-modification) - Better Touch Tool AquaTouch Preset Modification
 - [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions) - 
 - [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts) - AppleScripts for use with OS X / macOS
 - [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts) - Handy AppleScripts I use
@@ -6047,7 +6090,6 @@
 - [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar) - Touch Bar BTT config for QLab.
 - [mBilG/macOS-Dynamic-Wallpaper](https://github.com/mBilG/macOS-Dynamic-Wallpaper) - Vector Graphic for dynamic wallpaper
 - [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader) - Downloads Snapchat Memories Quickly and Efficiently
-- [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader) - Script to download all your Snapchat memories
 - [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept) - 
 - [pato/snapsaver](https://github.com/pato/snapsaver) - android app that saves snapchats
 - [gphoto/gphoto2](https://github.com/gphoto/gphoto2) - The gphoto2 commandline tool for accessing and controlling digital cameras.
@@ -6737,11 +6779,12 @@
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [amebalabs/Kefir](https://github.com/amebalabs/Kefir) - Control KEF speakers from macOS menu bar
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more feature
+- [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [skibitsky/current-task](https://github.com/skibitsky/current-task) - 🗻 This utility allows me to focus on one task at a time.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai) - GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
-- [steventheworker/Recents-macos-home](https://github.com/steventheworker/Recents-macos-home) - Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
+- [steventheworker/Recents-macos-home](https://github.com/steventheworker/Recents-macos-home) - Edit the 'recents lists' (or App Exposé entries) of other apps! Menubar, file or app launcher..
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - A macOS app for organizing folders
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -6777,7 +6820,7 @@
 - [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix) - My Phoenix setup.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer) - Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -7103,6 +7146,7 @@
 
 ## react-native 
 
+- [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix) - 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
@@ -7163,6 +7207,7 @@
 
 ## reverse-engineering 
 
+- [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches) - Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 - [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches) - Picked up some dropped patches for ReVanced
@@ -7655,7 +7700,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors) - 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 - [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles) - dot Files: ZSH setup and productivity tools for development
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...) - Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -7902,7 +7947,7 @@
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
 - [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader) - Facebook Video Downloader in PHP
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -8070,6 +8115,7 @@
 
 ## windows 
 
+- [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus) - YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 - [quests-org/quests](https://github.com/quests-org/quests) - The open-source app builder
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -8246,7 +8292,7 @@
 - [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT) - Makes YouTube Less trashy by removing distracting features, and trash videos
 - [omnixent/omnixent](https://github.com/omnixent/omnixent) - 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 - [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python) - 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac
