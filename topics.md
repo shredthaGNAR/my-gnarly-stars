@@ -112,6 +112,7 @@
 - [games](#games)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1116,6 +1117,7 @@
 
 ## chatgpt 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
@@ -1490,6 +1492,7 @@
 
 ## claude 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks) - LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
@@ -1580,6 +1583,7 @@
 
 ## cli 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [agmmnn/syn](https://github.com/agmmnn/syn) - 🌾 Synonyms, antonyms, rhymes & related words — in your terminal, Raycast, and web. Powered by Thesaurus.com & Datamuse.
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [bkataru/tablitz](https://github.com/bkataru/tablitz) - intelligent/modern/blazing fast™ 🚀🔥🦀 OneTab-compatible browser tab/session manager
@@ -1654,7 +1658,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 
@@ -1697,6 +1701,7 @@
 
 ## command-line 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [agmmnn/syn](https://github.com/agmmnn/syn) - 🌾 Synonyms, antonyms, rhymes & related words — in your terminal, Raycast, and web. Powered by Thesaurus.com & Datamuse.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -1796,6 +1801,7 @@
 
 ## css 
 
+- [Milor123/calibre-elegant-themes-CSS-for-Read](https://github.com/Milor123/calibre-elegant-themes-CSS-for-Read) - A collection of themes to read (not an interface), elegant and modern CSS with beautiful fonts, for the Calibre e-book viewer, with light and dark mode support
 - [Domenico-Tenace-Open-Labs/studio-pulse](https://github.com/Domenico-Tenace-Open-Labs/studio-pulse) - Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 - [AdamXweb/fxcss](https://github.com/AdamXweb/fxcss) - 🦊 Live-reload, inspect and screenshot-test Firefox userChrome.css themes
 - [Yeove/050_Firefox_UserConfig_VerticalTabs](https://github.com/Yeove/050_Firefox_UserConfig_VerticalTabs) - Firefox tweaks to enable vertical tabs with mouse gestures, or Ctrl + Space
@@ -2069,6 +2075,7 @@
 
 ## docker 
 
+- [ivan-pinatti-labs/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti-labs/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 197 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
@@ -2685,6 +2692,10 @@
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt) - 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
+
 ## git 
 
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2781,6 +2792,7 @@
 
 ## go 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -2799,6 +2811,7 @@
 
 ## golang 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [eziq1/golauncher](https://github.com/eziq1/golauncher) - A Raycast-style launcher for Windows and macOS, written in Go with the MyGo native UI toolkit
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -2830,6 +2843,7 @@
 
 ## google 
 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube) - An attempt to list all Youtube IPs at one place.
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
@@ -2966,6 +2980,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/calibre](https://github.com/catppuccin/calibre) - 📚 Soothing pastel theme for Calibre
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [Domenico-Tenace-Open-Labs/studio-pulse](https://github.com/Domenico-Tenace-Open-Labs/studio-pulse) - Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 - [Domenico-Tenace-Open-Labs/astro-wellness](https://github.com/Domenico-Tenace-Open-Labs/astro-wellness) - A modern, dark, energetic gym template built with Astro and Bulma
@@ -4287,6 +4302,7 @@
 
 ## mcp 
 
+- [sandraschi/calibremcp](https://github.com/sandraschi/calibremcp) - Calibre library automation via FastMCP — metadata, shelves, RAG, ai workflows. Plus webapp and tauri rust winapp
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [bkataru/tablitz](https://github.com/bkataru/tablitz) - intelligent/modern/blazing fast™ 🚀🔥🦀 OneTab-compatible browser tab/session manager
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -4332,6 +4348,7 @@
 
 ## mcp-server 
 
+- [sandraschi/calibremcp](https://github.com/sandraschi/calibremcp) - Calibre library automation via FastMCP — metadata, shelves, RAG, ai workflows. Plus webapp and tauri rust winapp
 - [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server) - Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9
@@ -4704,6 +4721,7 @@
 
 ## openai 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [zebbern/skills](https://github.com/zebbern/skills) - High-quality Agent Skills made to perform reliably in real workflows
 - [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -4776,6 +4794,8 @@
 
 ## osint 
 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
@@ -4833,6 +4853,22 @@
 
 ## others 
 
+- [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
+- [kiwidude68/calibre_plugins](https://github.com/kiwidude68/calibre_plugins) - All kiwidude's plugins for calibre
+- [komali2/calibre-find-duplicates](https://github.com/komali2/calibre-find-duplicates) - This is a fork of kiwidude's "Find Duplicates" Calibre plugin that allows for merging duplicates.
+- [potateros/apple-books-epub-converter](https://github.com/potateros/apple-books-epub-converter) - Converts Apple Books' directory epub files to normal zipped epub files (for Calibre etc)
+- [Stardusted1/apple-books-epub-fixer](https://github.com/Stardusted1/apple-books-epub-fixer) - Fixes EPUBs exported from Apple Books that fail to open on other ereaders (Kindle, Kobo, Calibre, etc.).
+- [michaeldvinci/calibre-apple-books-exporter](https://github.com/michaeldvinci/calibre-apple-books-exporter) - 
+- [relf108/calibre_annas_archive](https://github.com/relf108/calibre_annas_archive) - Calibre store plugin for Anna's Archive
+- [scotjam/calibre_annas_archive](https://github.com/scotjam/calibre_annas_archive) - Calibre store plugin for Anna's Archive
+- [bwcon/calibre_annas_archive_plugin](https://github.com/bwcon/calibre_annas_archive_plugin) - Calibre store plugin for Anna's Archive
+- [icyavocado/calibre-annas-archive](https://github.com/icyavocado/calibre-annas-archive) - Calibre store plugin for Anna's Archive
+- [binimum/calibre_annas_archive](https://github.com/binimum/calibre_annas_archive) - Calibre store plugin for Anna's Archive
+- [ScottBot10/calibre_annas_archive](https://github.com/ScottBot10/calibre_annas_archive) - Calibre store plugin for Anna's Archive
+- [ping/libby-calibre-plugin](https://github.com/ping/libby-calibre-plugin) - OverDrive Libby Plugin for calibre
+- [7sarus/calibre-lib](https://github.com/7sarus/calibre-lib) - Native Calibre plugin to search, filter, and bulk-download books from LibGen directly into your library.
+- [an1nf/cal-annas](https://github.com/an1nf/cal-annas) - Calibre store plugin for Anna's Archive/Libgen
+- [notlibrary/CalibreLibgenSci](https://github.com/notlibrary/CalibreLibgenSci) - Calibre Libgen Non-fiction / Sci-tech store plugin
 - [AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) - CircleToSearch with multi search engine support for all android
 - [aaroncolesmith/bovada_data_1001](https://github.com/aaroncolesmith/bovada_data_1001) - Bovada odds scraper data (squashed history, moved from bovada_data_1001 which hit GitHub's size quota)
 - [PierpaoloPernici/FancyFolders](https://github.com/PierpaoloPernici/FancyFolders) - Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
@@ -4853,7 +4889,6 @@
 - [bubblegump30/GitHub-Plus-Maintained](https://github.com/bubblegump30/GitHub-Plus-Maintained) - GitHub Plus Enhance GitHub with additional features.
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [aplswd-themes/astara](https://github.com/aplswd-themes/astara) - A premium, multi-purpose Astro theme featuring 5 distinct, interactive industry templates. Built with React and Tailwind CSS.
-- [routerhubSI/kimi-uncensored](https://github.com/routerhubSI/kimi-uncensored) - Every uncensored and abliterated Kimi build — Kimi K3.1 Pro Uncensored via API at 0.30/1.50 USD per million tokens, abliterated open-weight checkpoints for K3.1 Pro and K3, license notes and a red-tea
 - [onemen/firefox-scripts](https://github.com/onemen/firefox-scripts) - 
 - [KOCEAN33/savetab](https://github.com/KOCEAN33/savetab) - OneTab-parity tab manager extension for Chrome and Firefox
 - [maximlefebvre/firefox_userChrome](https://github.com/maximlefebvre/firefox_userChrome) - 
@@ -7058,7 +7093,7 @@
 - [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager) - Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [reading-list-team/reading-list](https://github.com/reading-list-team/reading-list) - A Chrome/Firefox extension for saving pages to read later.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions) - Rein: a browser extension that hides YouTube recommendations and lets you customize the interface.
 
 ## programming 
@@ -7112,6 +7147,7 @@
 
 ## python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [agmmnn/syn](https://github.com/agmmnn/syn) - 🌾 Synonyms, antonyms, rhymes & related words — in your terminal, Raycast, and web. Powered by Thesaurus.com & Datamuse.
 - [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+
@@ -7288,6 +7324,7 @@
 
 ## rag 
 
+- [sandraschi/calibremcp](https://github.com/sandraschi/calibremcp) - Calibre library automation via FastMCP — metadata, shelves, RAG, ai workflows. Plus webapp and tauri rust winapp
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp) - An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
@@ -7701,7 +7738,7 @@
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 
 ## sketch 
@@ -8015,7 +8052,7 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 - [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [sindresorhus/terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Elegant Terminal theme with bright colors
@@ -8045,6 +8082,7 @@
 
 ## tui 
 
+- [heartleo/zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle and WeRead, and integrate with AI agents.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
@@ -8312,6 +8350,7 @@
 
 ## vpn 
 
+- [ivan-pinatti-labs/docker-torrent-box-with-vpn](https://github.com/ivan-pinatti-labs/docker-torrent-box-with-vpn) - Torrent / Usenet / NZB container stack with VPN (ProtonVPN) to be run by Docker Compose
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -8425,6 +8464,7 @@
 
 ## webapp 
 
+- [sandraschi/calibremcp](https://github.com/sandraschi/calibremcp) - Calibre library automation via FastMCP — metadata, shelves, RAG, ai workflows. Plus webapp and tauri rust winapp
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp) - Poker calculator web application built with JSF. Supports Omaha, Omaha Hi/Lo, and Texas Hold'em simulations.
 - [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats) - A tool to analyze your Pocket reading list.
@@ -8720,7 +8760,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles) - My personal (.)dotfiles and configurations for various programs and environments.
 - [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [vaeth/zshrc-mv](https://github.com/vaeth/zshrc-mv) - This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features
